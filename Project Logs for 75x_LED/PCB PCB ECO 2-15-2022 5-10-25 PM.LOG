@@ -1,0 +1,9 @@
+Added Component: Designator=U5(LED_WS2812B-B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Worldsemi'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "WS2812B-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Net1_4 Pin=U5-4
+Added Member To Class: ClassName=Main Member=Component U5 WS2812B-B

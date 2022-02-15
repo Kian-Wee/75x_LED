@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C1 Old Footprint=FP-GRM15-MFG New Footprint=FP-C1206C-EB-MFG
+Change Component Footprint: Designator=C2 Old Footprint=FP-GRM15-MFG New Footprint=FP-C1206C-EB-MFG
+Change Component Footprint: Designator=C3 Old Footprint=FP-GRM15-MFG New Footprint=FP-C1206C-EB-MFG
+Change Component Footprint: Designator=C4 Old Footprint=FP-GRM15-MFG New Footprint=FP-C1206C-EB-MFG
+Change Component Comment: Designator=C1 Old Comment=GRM155R71C104KA88D New Comment=C1206C104K1RACTU
+Change Component Comment: Designator=C2 Old Comment=GRM155R71C104KA88D New Comment=C1206C104K1RACTU
+Change Component Comment: Designator=C3 Old Comment=GRM155R71C104KA88D New Comment=C1206C104K1RACTU
+Change Component Comment: Designator=C4 Old Comment=GRM155R71C104KA88D New Comment=C1206C104K1RACTU
+Change Pin Designator/Name:  Old Designator=C1-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C1-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C2-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C2-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C3-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C3-1 Old Name=1 New Designator =2 New Name=2
+Change Pin Designator/Name:  Old Designator=C4-2 Old Name=2 New Designator =1 New Name=1
+Change Pin Designator/Name:  Old Designator=C4-1 Old Name=1 New Designator =2 New Name=2
