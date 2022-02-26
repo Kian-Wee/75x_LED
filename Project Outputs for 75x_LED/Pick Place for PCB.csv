@@ -1,0 +1,21 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\75x_LED\Project Outputs for 75x_LED\Pick Place for PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/02/22
+Time:       11:13
+Revision:   f13618a8e3b3959567eda5d505400d9718d5af87
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Center-X(mil)","Center-Y(mil)","Rotation","Description"
+"C4","C0603C104K4RACTU","TopLayer","FP-C0603C-CF-MFG","510.000","120.000","90","Capacitor; Ceramic; Cap; .100uF; Tol 10%; SMT; Vol-Rtg 16V; X7R; Tape and Reel"
+"C3","C0603C104K4RACTU","TopLayer","FP-C0603C-CF-MFG","430.000","120.000","90","Capacitor; Ceramic; Cap; .100uF; Tol 10%; SMT; Vol-Rtg 16V; X7R; Tape and Reel"
+"C2","C0603C104K4RACTU","TopLayer","FP-C0603C-CF-MFG","520.000","335.000","270","Capacitor; Ceramic; Cap; .100uF; Tol 10%; SMT; Vol-Rtg 16V; X7R; Tape and Reel"
+"C1","C0603C104K4RACTU","TopLayer","FP-C0603C-CF-MFG","430.000","335.000","270","Capacitor; Ceramic; Cap; .100uF; Tol 10%; SMT; Vol-Rtg 16V; X7R; Tape and Reel"
+"4","1655","TopLayer","ADA-RGB-1655_V","680.000","120.000","180","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"3","1655","TopLayer","ADA-RGB-1655_V","255.000","120.000","180","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"2","1655","TopLayer","ADA-RGB-1655_V","680.000","330.000","0","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
+"1","1655","TopLayer","ADA-RGB-1655_V","255.000","330.000","0","Intelligent Control LED Integrated Light Source, 3.5 to 5.3 V, -25 to 80 degC, 4-Pin SMD, RoHS, Tape and Reel"
